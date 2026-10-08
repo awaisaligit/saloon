@@ -1,0 +1,6 @@
+{
+  "name": "Looks Ladies Salon",
+  "description": "Premium ladies beauty and hair salon in Gojra, Punjab, Pakistan. Offering hair, skincare, bridal and party makeup on Quaid-e-Azam Road.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
